@@ -1,0 +1,12 @@
+@relation  playing
+@attribute condition {sunny,cloudy,Raining,Wind}
+@attribute temperature numeric
+@attribute class{yes,No}
+@data
+sunny 	85	  yes
+sunny	  76	  yes
+cloudy	95	  No
+Raining 87	  yes
+Wind 	  78	  No
+sunny	  89    No
+Wind 	  79	  yes
